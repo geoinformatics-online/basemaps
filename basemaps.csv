@@ -1,0 +1,4 @@
+Name,URL,liciance,Description
+OSM Watercolor, https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.jpg,Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under CC BY SA.,https://hi.stamen.com/watercolor-process-3dd5135861fe
+Terrain, https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg,Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.,https://hi.stamen.com/say-hello-to-global-stamen-terrain-maps-c195b3bb71e0
+Toner,https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png,Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under CC BY SA.,https://hi.stamen.com/a-new-knight-grant-new-toner-new-infrastructure-8869fc74af39
